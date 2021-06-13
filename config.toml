@@ -1,0 +1,14 @@
+baseURL = "https://l-yc.github.io/physics-website/"
+languageCode = "en-us"
+title = "Feynman Diagrams"
+publishDir = "docs"
+
+relativeURLs = true
+canonifyURLs = true # resolve to web root :>
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+    BookSection = "*"
+    BookSearch = false

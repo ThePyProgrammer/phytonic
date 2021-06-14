@@ -1,7 +1,5 @@
-# PC5132 Module Project
-Project title: Feynman Diagrams
-URL: https://l-yc.github.io/physics-website/
-Names of team members: Benedict Tan Deng Jin, Li Yue Chen, Lim Rui Yuan
+# phytonic
+A physics site to write about cool physics stuff and write notes for the physics modules at NUS High School.
 
 ## Editing
 Edit files in the `./content/`.
